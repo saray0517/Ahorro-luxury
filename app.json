@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Ahorro Luxury",
+    "slug": "Ahorro-Luxury",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "jsEngine": "jsc",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
