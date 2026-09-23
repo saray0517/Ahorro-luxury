@@ -11,7 +11,7 @@ interface HistorialItem {
 
 const HISTORIAL: HistorialItem[] = [
   { id: '1', fecha: '2026-09-20', descripcion: 'Ahorro programado', monto: 150000 },
-  { id: '2', fecha: '2026-09-15', descripcion: 'Pago de Boletas', monto: 55000 },
+  { id: '2', fecha: '2026-09-15', descripcion: 'Pago de Boleta #89', monto: 27500 },
 ];
 
 export default function CalendarScreen() {
